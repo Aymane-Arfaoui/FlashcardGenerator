@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "question": "How is a project defined in the context of software project management?",
+    "answer": ""
+  },
+  {
+    "id": 2,
+    "question": "What are the five key management functions described in Lecture 1, and what does each function entail ?",
+    "answer": "**Planning:** Establishing goals, developing strategies, forecasting, budgeting, and documenting project plans.  **Organizing:** Grouping tasks, establishing structures, assigning roles and responsibilities, and creating an organizational hierarchy.  **Staffing:** Recruiting, training, evaluating, compensating, and sometimes replacing personnel to ensure the right people are in place.  **Directing:** Leading and supervising team members, motivating personnel, delegating authority, coordinating activities, and resolving conflicts.  **Controlling:** Monitoring progress, measuring performance against the plan, initiating corrective actions, and ensuring the project stays on track."
+  },
+  {
+    "id": 3,
+    "question": "Describe the “four P’s” a project manager must focus on.",
+    "answer": "**People:** The team members and stakeholders involved.  **Product:** The final deliverables or outcomes of the project.  **Process:** The methods, procedures, and tools used to execute the project.  **Project:** The overall structure, scope, and objectives of the endeavour."
+  },
+  {
+    "id": 4,
+    "question": "In your own words, explain why effective planning is crucial for the success of a software project.",
+    "answer": ""
+  },
+  {
+    "id": 5,
+    "question": "What is the difference between directing and controlling in project management?",
+    "answer": "•\t**Directing** involves leading and motivating the team, making decisions, delegating tasks, and ensuring smooth day-to-day operations.  •\t**Controlling** is about monitoring progress, measuring performance against the established plan, and taking corrective actions to address deviations."
+  },
+  {
+    "id": 6,
+    "question": "According to the lecture, why is the role of a project manager critical in software projects?",
+    "answer": ""
+  },
+  {
+    "id": 7,
+    "question": "What are some typical challenges in managing software projects as outlined in Lecture 1?",
+    "answer": ""
+  },
+  {
+    "id": 8,
+    "question": "How does the definition of management in Lecture 1 differ from the everyday use of the term?",
+    "answer": ""
+  },
+  {
+    "id": 9,
+    "question": "What inspirational quotes were highlighted in Lecture 1, and what lessons do they convey for project managers?",
+    "answer": "•\tLewis Carroll: “If you don’t know where you are going, any road will get you there.” This quote stresses the importance of having a clear vision and direction.  •\tPeter F. Drucker: “Management is doing things right; leadership is doing the right things.” This highlights the difference between efficiency in execution and effectiveness in decision-making.  LECTURE 2 CONCEPTS:"
+  },
+  {
+    "id": 10,
+    "question": "What are the main objectives of Lecture 2?",
+    "answer": ""
+  },
+  {
+    "id": 11,
+    "question": "What are some reasons managing and leading software projects is difficult?",
+    "answer": ""
+  },
+  {
+    "id": 12,
+    "question": "What are the typical constraints on software projects?",
+    "answer": ""
+  },
+  {
+    "id": 13,
+    "question": "How is the anatomy of a software project described in Lecture 2?",
+    "answer": ""
+  },
+  {
+    "id": 14,
+    "question": "What is the difference between stakeholders, clients, and customers in a software project?",
+    "answer": "•\t**Stakeholders** are individuals or groups with an interest in the project’s decisions and outcomes (e.g., suppliers, staff, regulators).  •\t**Clients** are stakeholders who have the authority to make decisions and commitments regarding the project.  •\t**Customers** are the ones who provide the requirements and ultimately accept the deliverable products."
+  },
+  {
+    "id": 15,
+    "question": "How do project goals differ from project objectives?",
+    "answer": "•\t**Project Goals** are high-level outcomes that describe what will happen once the project is complete and how it aligns with broader business objectives.  •\t**Project Objectives** are specific, detailed, time-bound targets (often set using the SMART methodology) that define what is to be achieved by the end of the project."
+  },
+  {
+    "id": 16,
+    "question": "What are the five tips for setting great project objectives?",
+    "answer": "1.\tSet the objectives at the beginning of the project.  2.\tInvolve the project team in the goal-setting process.  3.\tCreate brief, clear objective statements.  4.\tEnsure objectives are controllable.  5.\tReview the objectives throughout the project’s lifecycle."
+  },
+  {
+    "id": 17,
+    "question": "What is the Goal Question Metrics (GQM) approach, and why is it important?",
+    "answer": ""
+  },
+  {
+    "id": 18,
+    "question": "How is quality control addressed in software projects according to Lecture 2?",
+    "answer": ""
+  },
+  {
+    "id": 19,
+    "question": "What are the different types of organizational structures mentioned in the lecture?",
+    "answer": "•\t**Process-Structured Functional Organization**  •\t**Product-Structured Functional Organization**  •\t**Project-Structured Organization**  •\t**Matrix-Structured Organization** (or hybrid structures)  Each structure has its own way of grouping tasks and allocating resources to projects."
+  },
+  {
+    "id": 20,
+    "question": "What frameworks, standards, and guidelines are referenced in Lecture 2?",
+    "answer": "•\tCapability Maturity Model Integration (CMMI)  •\tISO/IEC and IEEE/EIA standards (such as ISO 12207 and IEEE 1058)  •\tThe Project Management Body of Knowledge (PMBOK®)  These provide structured methods and best practices for managing software projects."
+  },
+  {
+    "id": 21,
+    "question": "What is the Scope Triangle, and how does it relate to project management?",
+    "answer": ""
+  },
+  {
+    "id": 22,
+    "question": "How is risk management defined and what are its key components in the lecture?",
+    "answer": ""
+  },
+  {
+    "id": 23,
+    "question": "What is the workflow model for managing software projects as presented in Lecture 2?",
+    "answer": "These questions and answers summarize the essential topics from Lecture 2 in a midterm-relevant format, covering project management challenges, structures, objectives, quality, risk, and workflow models.  LECTURE 3:"
+  },
+  {
+    "id": 24,
+    "question": "What are the primary objectives of Lecture 3?",
+    "answer": "•\tUnderstanding Requirements Engineering, which involves gathering, analyzing, and managing requirements.  •\tDetermining Software Project Measurement, which covers how to measure and control project progress and quality."
+  },
+  {
+    "id": 25,
+    "question": "What is the purpose of a feasibility study in software projects?",
+    "answer": ""
+  },
+  {
+    "id": 26,
+    "question": "What are the major responsibilities of a project manager as outlined in Lecture 3?",
+    "answer": "•\tConducting a feasibility study.  •\tProject planning, which involves breaking down work, assigning tasks, estimating, scheduling, staffing, and managing risks.  •\tProject execution monitoring and control, which means continuously tracking progress, comparing it against the plan, and making corrective adjustments as necessary."
+  },
+  {
+    "id": 27,
+    "question": "Describe the software development life cycle as presented in Lecture 3.",
+    "answer": "1.\t**Requirement Analysis:** Eliciting and analyzing what the client needs.  2.\t**Architectural Design:** Defining system components (hardware, software, organizational) based on requirements.  3.\t**Detailed Design:** Breaking components into testable units.  4.\t**Code and Test:** Developing and individually testing the software units.  5.\t**Integration:** Combining components and testing the integrated system.  6.\t**Qualification Testing:** Ensuring the system meets overall requirements.  7.\t**Installation:** Deploying the system (including user training and configuration).  8.\t**Acceptance Support:** Ongoing maintenance and enhancement after deployment."
+  },
+  {
+    "id": 28,
+    "question": "What is requirements engineering and why is it critical in software projects?",
+    "answer": ""
+  },
+  {
+    "id": 29,
+    "question": "How does software project acquisition differ from software project management?",
+    "answer": "•\t**Software Project Acquisition** deals with the contractual and legal aspects of obtaining a project from an external customer. This includes different contract types such as fixed price, time and materials, cost plus fixed fee, or cost plus incentive fee.  •\t**Software Project Management** is focused on planning, executing, monitoring, and controlling the project to meet its goals. While acquisition is about the terms of engagement, management is about delivering the project successfully."
+  },
+  {
+    "id": 30,
+    "question": "What key elements should be documented in a contractual agreement for a software project?",
+    "answer": "•\tThe scope of work to be performed.  •\tDeliverable work products.  •\tDelivery dates and review schedules.  •\tChange request procedures.  •\tDesign and development constraints.  •\tProduct acceptance criteria.  •\tTraining schedules (if applicable).  •\tPrice and payment schedules.  This documentation is often formalized in a Statement of Work (SOW) appended to the contract."
+  },
+  {
+    "id": 31,
+    "question": "How is measurement used in managing software projects?",
+    "answer": "•\t**Collecting** project status data.  •\t**Validating** the accuracy of this data.  •\t**Analyzing** the data to determine progress against goals.  Measurements help managers identify deviations, take corrective action, and continuously improve project processes."
+  },
+  {
+    "id": 32,
+    "question": "What aspects of a software project should be measured and controlled?",
+    "answer": "•\t**Product Features:** Ensuring that all required functions are implemented and work correctly.  •\t**Quality Attributes:** Such as reliability, security, performance, and maintainability.  •\t**Effort and Cost:** The amount of work expended and resources consumed.  •\t**Schedule:** Milestones and timelines for deliverables.  •\t**Progress:** Completion status of work products and adherence to the plan.  •\t**Risk:** Status and effectiveness of risk mitigation strategies."
+  },
+  {
+    "id": 33,
+    "question": "What does “quality” in software projects mean according to Lecture 3?",
+    "answer": "LECTURE 4:"
+  },
+  {
+    "id": 34,
+    "question": "What is the primary focus of Lecture 4?",
+    "answer": ""
+  },
+  {
+    "id": 35,
+    "question": "What common causes contribute to software project failures?",
+    "answer": "•\tIncorrect coding or implementation errors (e.g., wrong data types, overflow errors)  •\tInadequate performance due to slow response times  •\tFaulty or inadequate interfaces between systems  •\tInsufficient security controls  •\tUnrealistic or poorly articulated project goals  •\tInaccurate resource or time estimates  •\tPoorly defined or misunderstood system requirements  •\tLack of effective communication among stakeholders  •\tUnmanaged risks and immature technology adoption  •\tSloppy development practices"
+  },
+  {
+    "id": 36,
+    "question": "What lessons can be learned from the Ambulance Service Failure?",
+    "answer": ""
+  },
+  {
+    "id": 37,
+    "question": "What measures are recommended to prevent failures like the Rogers Maintenance Upgrade Outage?",
+    "answer": "•\tTest updates thoroughly before deployment.  •\tBuild redundancy into systems to ensure failover capabilities.  •\tDevelop an external crisis communications plan to manage and mitigate outages effectively."
+  },
+  {
+    "id": 38,
+    "question": "What does the phrase “programming before problem understanding” mean, and why is it problematic?",
+    "answer": ""
+  },
+  {
+    "id": 39,
+    "question": "What are some key enablers for software project success mentioned in the lecture?",
+    "answer": "•\tMaking decisions based on openly shared and accurate information.  •\tTrusting and leveraging the expertise of team members without second-guessing them.  •\tImposing quality standards from the very beginning of the project.  •\tAvoiding artificial hierarchies that impede effective communication.  •\tEmploying good engineering practices consistently throughout the project."
+  },
+  {
+    "id": 40,
+    "question": "Why is accountability and proper documentation important in software projects?",
+    "answer": "These questions and answers capture the major topics from Lecture 4, focusing on real-world software project failures, their causes, and strategies for preventing similar issues.  LECTURE 5:"
+  },
+  {
+    "id": 41,
+    "question": "What are the primary learning outcomes of Lecture 5?",
+    "answer": "•\tExamine software project management business cases.  •\tLearn the lessons from past software project failures.  •\tIdentify the main elements and contents of a business case.  •\tUnderstand how an ongoing strategy supports project evaluation.  •\tDiscuss case studies linking requirements to business cases."
+  },
+  {
+    "id": 42,
+    "question": "How is a business case defined in the context of software projects?",
+    "answer": ""
+  },
+  {
+    "id": 43,
+    "question": "What key questions should a business case address?",
+    "answer": "•\tWill the proposal save money or cut costs?  •\tWill it increase productivity or speed up development?  •\tHow will it improve quality?  •\tWhat are the financial implications?  •\tWhat is its impact on profit, culture, or operations?  •\tWho are the stakeholders and are they supportive?  •\tHow do competitors fare when using similar approaches?"
+  },
+  {
+    "id": 44,
+    "question": "What are some common reasons for software project failures discussed in Lecture 5?",
+    "answer": "•\tUnrealistic or unarticulated project goals  •\tInaccurate estimates of needed resources  •\tPoorly defined system requirements  •\tInadequate reporting of project status  •\tUnmanaged risks  •\tPoor communication among clients, developers, and users  •\tUse of immature technology  •\tSloppy development practices and stakeholder politics"
+  },
+  {
+    "id": 45,
+    "question": "What lessons are learned from conducting a project post-mortem?",
+    "answer": ""
+  },
+  {
+    "id": 46,
+    "question": "According to the lecture, what are some enablers of software project success?",
+    "answer": "•\tMaking decisions based on openly shared information  •\tTrusting and leveraging team members’ expertise without second-guessing  •\tImposing high-quality standards from the project’s inception  •\tAvoiding artificial hierarchies that hinder effective communication  •\tUtilizing sound engineering practices throughout the project"
+  },
+  {
+    "id": 47,
+    "question": "What strategic challenges do projects face when acquiring tough choices?",
+    "answer": ""
+  },
+  {
+    "id": 48,
+    "question": "What does the lecture suggest about the relationship between software projects and business considerations?",
+    "answer": ""
+  },
+  {
+    "id": 49,
+    "question": "How do business cases increase the chances of a software project’s success?",
+    "answer": ""
+  },
+  {
+    "id": 50,
+    "question": "What are some key elements that should be included in the business planning process for a software project?",
+    "answer": "•\tAn outline of the project’s scope and deliverables  •\tA high-level implementation plan  •\tCost estimates and budget information  •\tAnticipated benefits and outcomes  •\tIdentification of potential risks and mitigation strategies  •\tAn exit strategy or contingency plan  •\tConsideration of the project’s impact on profit, culture, and operations  LECTURE 6:"
+  },
+  {
+    "id": 51,
+    "question": "What is a Statement of Work (SOW) and what are its key components?",
+    "answer": "•\tA list of features to be developed  •\tDescriptions of each intermediate deliverable or work product  •\tEstimated effort (optional) required for each deliverable  It serves as a foundation for defining the project’s scope and expectations."
+  },
+  {
+    "id": 52,
+    "question": "What are the 4 P’s of a software project as described in this lecture?",
+    "answer": "•\t**People:** The team members and stakeholders involved  •\t**Product:** The deliverables or outcomes  •\t**Process:** The methodologies and practices used  •\t**Project:** The overall structure, scope, and objectives  These categories help in structuring the project plan and ensuring all key aspects are addressed."
+  },
+  {
+    "id": 53,
+    "question": "What is the overall goal of software project planning?",
+    "answer": ""
+  },
+  {
+    "id": 54,
+    "question": "What are the five major activities involved in essential software planning?",
+    "answer": "•\t**Scoping:** Defining the project’s boundaries and deliverables  •\t**Estimation:** Determining effort, costs, and resource needs  •\t**Risk Management:** Identifying and mitigating potential risks  •\t**Scheduling:** Developing a timeline, including critical path analysis  •\t**Control Strategy:** Establishing mechanisms to monitor and adjust the project as needed"
+  },
+  {
+    "id": 55,
+    "question": "How does effective planning reduce uncertainty and improve efficiency in a project?",
+    "answer": "•\tClarifying the business case and project scope  •\tCreating a complete Work Breakdown Structure (WBS)  •\tEstimating task durations and resource needs accurately  •\tConstructing a project network diagram and determining the critical path  •\tFinalizing the resource schedule and establishing control strategies  This thorough upfront work helps avoid costly surprises later in the project."
+  },
+  {
+    "id": 56,
+    "question": "What are the key steps in running a project planning session?",
+    "answer": "•\tClarifying the business case  •\tCreating a comprehensive WBS  •\tEstimating task durations and resource requirements  •\tConstructing a project network diagram  •\tDetermining the critical path  •\tRevising and approving the project completion date  •\tFinalizing the resource schedule and gaining consensus on the overall plan"
+  },
+  {
+    "id": 57,
+    "question": "What is meant by the “Pain Curve” in project planning?",
+    "answer": ""
+  },
+  {
+    "id": 58,
+    "question": "How do planning packages differ between large and small projects?",
+    "answer": "•\t**Large Projects:** Typically involve distributed teams, extensive use of vendors/contractors, and require detailed and comprehensive planning packages to manage complexity.  •\t**Small Projects:** Often have shorter durations and simpler structures, so extensive planning might add unnecessary non-value-added work.  The scale and complexity of the project dictate the depth of planning required."
+  },
+  {
+    "id": 59,
+    "question": "Why is distinguishing between what a client wants and what they need important in project planning?",
+    "answer": "•\t**Client Wants:** Often reflect their initial, possibly superficial ideas or preferences.  •\t**Client Needs:** Represent the underlying requirements necessary for success.  Understanding the difference helps ensure that the project delivers a solution that truly addresses the problem, rather than just satisfying superficial desires."
+  },
+  {
+    "id": 60,
+    "question": "What characteristics define a “good” client in the context of project planning?",
+    "answer": "•\tClearly knows what they want  •\tUnderstands what it takes to deliver the project  •\tActively works toward the best solution  •\tIs easy to work with and meaningfully involved in the process  Conversely, clients who frequently change their minds or are unclear about their needs can significantly disrupt planning and execution.  LECTURE 7:"
+  },
+  {
+    "id": 61,
+    "question": "What are the main learning outcomes of Lecture 7?",
+    "answer": "•\tDetermining the project scope  •\tDescribing estimation techniques (experience-based and parametric-based)  •\tEstablishing an appropriate estimation approach, including formulas and methods like PERT and CoCoMo."
+  },
+  {
+    "id": 62,
+    "question": "What is the “Scope Triangle” and how does it affect estimation?",
+    "answer": ""
+  },
+  {
+    "id": 63,
+    "question": "Describe the process of Estimation by Analogy. What are its main steps?",
+    "answer": "1.\t**Gathering detailed size data** from a similar past project (e.g., breaking it down by subsystems).  2.\t**Calculating a multiplication factor** for each subsystem:  Multiplication Factor = (Number of elements in New Project) / (Number of elements in Old Project)  3.\t**Estimating the new project size** for each subsystem by multiplying the old subsystem size by the multiplication factor, then summing these estimates.  4.\t**Deriving the effort estimate** by using the size ratio:  Effort(New Project) = Effort(Old Project) × [Size(New Project) / Size(Old Project)]"
+  },
+  {
+    "id": 64,
+    "question": "What is the PERT estimation technique and which formula is used to compute the Expected Case estimate?",
+    "answer": "•\tBest Case (B)  •\tMost Likely Case (M)  •\tWorst Case (W)  The Expected Case (E) is computed using:  E = (B + 4×M + W) / 6  This formula helps account for uncertainty by weighting the most likely scenario more heavily."
+  },
+  {
+    "id": 65,
+    "question": "Compare experience-based estimation with parametric-based estimation. What distinguishes these methods?",
+    "answer": "•\t**Experience-based estimation** relies on historical data, expert judgment, and analogies from similar projects. It is often quick and based on subjective assessments.  •\t**Parametric-based estimation** uses mathematical models that relate project parameters (e.g., size measured in lines of code or function points) to effort or cost. An example is the CoCoMo model."
+  },
+  {
+    "id": 66,
+    "question": "What is the basic CoCoMo model and its formula for effort estimation?",
+    "answer": "EFFORT = c × (SIZE)^k  where c and k are constants that depend on the project classification (organic, semi-detached, or embedded)."
+  },
+  {
+    "id": 67,
+    "question": "What are “scale factors” and “effort multipliers” in the CoCoMo II model, and how do they affect the effort estimate?",
+    "answer": "•\t**Scale Factors (sf):** These factors reflect the exponential impact of project size on effort. They account for aspects like precedentedness, development flexibility, risk resolution, team cohesion, and process maturity. The overall scale factor is computed as:  sf = B + 0.01 × (sum of exponent driver ratings)  where B is a base constant (e.g., 0.91).  •\t**Effort Multipliers (em):** These adjust the nominal effort estimate based on cost drivers (e.g., required reliability, complexity, team capability). A multiplier greater than 1 increases the estimate, while one less than 1 decreases it.  In CoCoMo II, the effort is estimated using:  p-m = A × (SIZE)^sf × (em₁ × em₂ × … × emₙ)  where A is a constant, SIZE is measured in kdsi, and em values are the effort multipliers."
+  },
+  {
+    "id": 68,
+    "question": "What is the “Cone of Uncertainty” in software estimation, and why is it significant?",
+    "answer": ""
+  },
+  {
+    "id": 69,
+    "question": "How can over-estimation and under-estimation affect a software project? Provide related principles.",
+    "answer": "•\t**Over-Estimation:** May lead to Parkinson’s Law (“work expands to fill the time available”), causing a project to drag on longer than necessary.  •\t**Under-Estimation:** Can invoke Murphy’s Law (“anything that can go wrong will go wrong”), resulting in rushed work, compromised quality, and missed deadlines. Brooks’ Law also warns that adding more people to a late project can further delay it.  These principles highlight the importance of accurate estimation."
+  },
+  {
+    "id": 70,
+    "question": "Outline the steps involved in developing an organizational estimation model.",
+    "answer": "1.\tDetermining a list of potential and significant effort cost drivers.  2.\tSelecting an initial estimation model (e.g., CoCoMo, analogy-based).  3.\tMeasuring and estimating past projects to calibrate the model.  4.\tEvaluating the quality of the estimation using post-mortem analysis.  5.\tUpdating and validating the model periodically as new data becomes available or as project parameters change.  ## LECTURE 8  — —  - - - - - - - - - - - - - - - - — - -"
+  },
+  {
+    "id": 71,
+    "question": "What are the main learning outcomes of Lecture 8?",
+    "answer": "•\tUsing Function Points by Albrecht to estimate system size  •\tPracticing COSMIC Function Points as an alternative functional size measurement method  •\tUnderstanding the COSMIC measurement procedure and the principles of the COSMIC Functional Size Measurement (FSM) method"
+  },
+  {
+    "id": 72,
+    "question": "Why might organizations choose Function Points over lines of code (LOC) for sizing a project?",
+    "answer": ""
+  },
+  {
+    "id": 73,
+    "question": "How are Function Points calculated using the Albrecht method with average weights? Include the formula.",
+    "answer": "FP = (No. of External Inputs × 4) + (No. of External Outputs × 5) + (No. of Logical Internal Files × 10) + (No. of External Interface Files × 7) + (No. of External Inquiries × 4)  This formula provides a weighted total that represents the functionality offered by the system."
+  },
+  {
+    "id": 74,
+    "question": "What are the Albrecht FP weightings for different FP components?",
+    "answer": "•\t**External Input:** 3 (low), 4 (average), 6 (high)  •\t**External Output:** 4 (low), 5 (average), 7 (high)  •\t**Logical Internal File:** 7 (low), 10 (average), 15 (high)  •\t**External Interface File:** 5 (low), 7 (average), 10 (high)  •\t**External Inquiry:** 3 (low), 4 (average), 6 (high)"
+  },
+  {
+    "id": 75,
+    "question": "What is the COSMIC Function Point method and why is it used?",
+    "answer": ""
+  },
+  {
+    "id": 76,
+    "question": "Outline the COSMIC measurement procedure.",
+    "answer": "1.\tIdentify the functional users.  2.\tIdentify the triggering events that initiate functionality.  3.\tIdentify the functional processes enabled by those events.  4.\tIdentify the data groups that the system handles.  5.\tIdentify the data movements (categorized as Entry, Exit, Read, and Write) associated with these processes.  6.\tSum the data movements to obtain the total number of COSMIC Function Points (CFPs)."
+  },
+  {
+    "id": 77,
+    "question": "What are the four data movement types in the COSMIC FSM, and what does each represent?",
+    "answer": "•\t**Entry (E):** Moves a data group into a functional process from a functional user (triggering event).  •\t**Exit (X):** Moves a data group out of a functional process to a functional user (provides output).  •\t**Write (W):** Moves a data group from a functional process to persistent storage.  •\t**Read (R):** Moves a data group from persistent storage to a functional process."
+  },
+  {
+    "id": 78,
+    "question": "What constitutes a functional process in the context of COSMIC, and why is it important?",
+    "answer": ""
+  },
+  {
+    "id": 79,
+    "question": "Provide an example of how to calculate Function Points using the Albrecht method.",
+    "answer": "•\t2 External Inputs  •\t3 External Outputs  •\t4 Logical Internal Files  •\t1 External Interface File  •\t2 External Inquiries  Using average weights:  FP = (2×4) + (3×5) + (4×10) + (1×7) + (2×4)  FP = 8 + 15 + 40 + 7 + 8 = 78 FP  This weighted total represents the functional size of the system."
+  },
+  {
+    "id": 80,
+    "question": "What is the purpose of the COSMIC FSM exercise described in the lecture?",
+    "answer": "These questions and answers cover the major topics from Lecture 8, including the rationale behind function point sizing, the Albrecht method, COSMIC FSM, and the associated formulas and procedures."
+  }
+]
