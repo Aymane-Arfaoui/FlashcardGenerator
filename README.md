@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple app that allows you to generate flashcards from your notes... use it to get better grades in school...
 
 ## Available Scripts
 
